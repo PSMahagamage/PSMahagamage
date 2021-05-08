@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @PSMahagamage
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on Any 
+- 📫 How to reach me ...
+--->
