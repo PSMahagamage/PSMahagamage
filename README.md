@@ -6,9 +6,9 @@
 + 💞️ I’m looking to collaborate on any good S/W project
 + 📫 --->
 
-<h2>Nice to see you here</h2> ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+<h2>Nice to see you here</h2> 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Here are some technologies I have used and learned</h2>
 
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -17,9 +17,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="php" width="45" height="45"/>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="php" width="45" height="45"/>      
   </p>
-
+<p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSMahagamage&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSMahagamage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSMahagamage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 
