@@ -6,7 +6,7 @@
 + 💞️ I’m looking to collaborate on any good S/W project
 + 📫 --->
 
-<h2> Nice to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+<h2> Nice to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
   <p align="left">
