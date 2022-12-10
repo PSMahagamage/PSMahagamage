@@ -17,9 +17,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="php" width="45" height="45"/>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="php" width="45" height="45"/>      
   </p>
-<p>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSMahagamage&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSMahagamage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSMahagamage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
