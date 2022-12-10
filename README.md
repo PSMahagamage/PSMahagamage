@@ -1,5 +1,6 @@
-### Hi there 👋👋 Hi, I’m @PSMahagamage
-- 👀 I’m interested in Programming 
+### Hi there,👋👋 I’m @PSMahagamage
+
++ 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any good S/W project
 - 📫 --->
