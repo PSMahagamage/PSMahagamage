@@ -6,7 +6,7 @@
 + 💞️ I’m looking to collaborate on any good S/W project
 + 📫 --->
 
-<h2> Nice to see you here ! [visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+<h2> Nice to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
   <p align="left">
@@ -17,5 +17,5 @@
   </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSMahagamage&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-&nbsp
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSMahagamage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
