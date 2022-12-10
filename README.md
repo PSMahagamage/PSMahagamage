@@ -1,14 +1,9 @@
 
 <h1 align="center">Hi there,👋👋 I’m Pamodha Mahagamage</h1> 
 
-+ 👀 I’m interested in Programming 
-+ 🌱 I’m currently learning Computer Science
-+ 💞️ I’m looking to collaborate on any good S/W project
-+ 📫 --->
+<h2>Nice to see you here🚀</h2> 
 
-<h2>Nice to see you here</h2> 
-
-<h2 align="center"> 🚀 &nbsp;Familiar Programming Languages ,Tools and IDEs</h2>
+<h2 align="center"> 💻&nbsp;Familiar Programming Languages ,Tools and IDEs</h2>
 
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
