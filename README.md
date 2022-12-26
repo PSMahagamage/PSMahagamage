@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there,👋👋 I’m Pamodha Mahagamage</h1> 
 
-<h2>🚀 Nice to see you here</h2> 
+<h2>🚀 Nice to see you here.</h2> 
 
 <h2 align="center"> 💻&nbsp;Familiar Programming Languages & Tools</h2>
 
